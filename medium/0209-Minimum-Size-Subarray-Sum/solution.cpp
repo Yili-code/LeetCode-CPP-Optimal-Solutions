@@ -1,8 +1,3 @@
-// Minimum Size Subarray Sum
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
   int minSubArrayLen(int target, vector<int> &nums) {
@@ -22,16 +17,3 @@ public:
     return (result == INT_MAX) ? 0 : result;
   }
 };
-
-// 2, 3, 1, 2, 4, 3
-// 0  1  2  3  4  5
-// nums.size() = 6
-
-int main() {
-  vector<int> nums = {2, 3, 1, 2, 4, 3};
-  int target = 7;
-  Solution sol;
-  int result = sol.minSubArrayLen(target, nums);
-  cout << result << endl;
-  return 0;
-}

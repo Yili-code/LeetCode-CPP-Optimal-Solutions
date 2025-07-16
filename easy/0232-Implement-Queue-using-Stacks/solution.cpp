@@ -42,22 +42,3 @@ public:
     return outStack.empty() ? true : false;
   }
 };
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue* obj = new MyQueue();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->peek();
- * bool param_4 = obj->empty();
- */
-
-/*
-In   out   out   in
-4     1     2     5
-3     2     3
-2     3     4
-1     4
-
-2 3 4 5
-*/

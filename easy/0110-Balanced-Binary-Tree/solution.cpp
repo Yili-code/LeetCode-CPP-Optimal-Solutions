@@ -1,4 +1,3 @@
-// belanced binary tree using post-order traversal
 class Solution {
 public:
   // helper function: return height if balanced, else return -1
@@ -24,5 +23,3 @@ public:
 
   bool isBalanced(TreeNode *root) { return check(root) != -1; }
 };
-
-// bottom-up

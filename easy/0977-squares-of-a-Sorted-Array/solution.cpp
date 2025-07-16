@@ -1,8 +1,3 @@
-// Squares of a Sorted Array
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
   vector<int> sortedSquares(vector<int> &nums) {
@@ -24,16 +19,3 @@ public:
     return newVector;
   }
 };
-
-int main() {
-  vector<int> v = {-7, -3, 2, 3, 11};
-  Solution sol;
-  vector<int> result = sol.sortedSquares(v);
-
-  for (int num : result) {
-    cout << num << " ";
-  }
-  cout << endl;
-
-  return 0;
-}

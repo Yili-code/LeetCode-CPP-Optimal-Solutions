@@ -1,9 +1,3 @@
-// Spiral Matrix II
-
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
   vector<vector<int>> generateMatrix(int n) {
@@ -40,19 +34,3 @@ public:
     return v;
   }
 };
-
-int main() {
-  int n;
-  cin >> n;
-  Solution sol;
-  vector<vector<int>> result = sol.generateMatrix(n);
-
-  for (const auto &row : result) {
-    for (int val : row) {
-      cout << val << "\t";
-    }
-    cout << "\n";
-  }
-
-  return 0;
-}

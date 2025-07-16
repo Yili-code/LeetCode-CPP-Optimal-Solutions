@@ -1,4 +1,3 @@
-// Reverse Words in a String
 class Solution {
 public:
   string reverseWords(string s) {

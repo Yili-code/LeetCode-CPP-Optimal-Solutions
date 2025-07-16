@@ -1,4 +1,3 @@
-// Evaluate Reverse Polish Notation
 class Solution {
 public:
   int evalRPN(vector<string> &tokens) {
