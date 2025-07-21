@@ -1,8 +1,8 @@
-### 快速導航 | Quick Navigation
+## 快速導航 | Quick Navigation
 
 系統性整理常見資料結構、底層原理、使用時機與 LeetCode 經典題目。
 
-### 目錄結構
+## 目錄結構 | Table of Contents
 
 1. Hash Table ( 雜湊表 / 哈希表 )
   * unordered_map
