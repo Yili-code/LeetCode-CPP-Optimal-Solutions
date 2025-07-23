@@ -3,7 +3,7 @@
 ## 1. 基本定義 (Basic Definition)
 - **資料結構 (Data Structure)**：  
   雙端隊列（Double-Ended Queue），允許在兩端進行高效插入與刪除的序列容器。  
-  
+
 - **元素特性 (Element Properties)**：  
   - 支援從頭尾兩端快速（常數時間）插入與刪除。  
   - 支援隨機存取（O(1) 時間）。  
@@ -13,8 +13,11 @@
 
 ## 2. 底層實現原理 (Underlying Implementation)
 - `std::deque` 實作通常採用**分段陣列 (Segmented Array)**，包含多個小陣列（block/chunk）。  
+
 - 這些小陣列透過一個陣列（map）管理指標，支援在兩端靈活增減小陣列。  
+
 - 隨機存取時，先定位哪個 block，再定位 block 內的元素。  
+
 - 插入刪除操作在兩端是 O(1)，中間則為 O(n)。
 
 ---
@@ -45,7 +48,9 @@
 
 ## 5. 使用情境 (Usage Scenarios)
 - 需要在**兩端快速插入與刪除**的場景（如滑動視窗、雙端隊列緩衝）。  
+
 - 需**隨機存取元素**，但又要避免 vector 在頭部插入造成效能問題。  
+
 - FIFO 與 LIFO 混合使用情況。
 
 ---

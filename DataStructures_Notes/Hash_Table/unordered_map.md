@@ -4,11 +4,13 @@
 - **資料結構 (Data Structure)**：  
   C++ STL 中基於 **哈希表 (Hash Table)** 的關聯式容器 (associative container)。  
   ** 關聯式容器 (associative container) **: 根據鍵 (key) 來快速查找值 (value) 的容器，而不是透過 index 存取。
+
 - **鍵值特性 (Key Properties)**：  
   - Key 唯一 (unique)  
   - Key 須可被 `std::hash` 雜湊 (hashing)
   ** 雜湊 (hashing) **: 將輸入資料 (key) 經過某種運算轉換成一個固定大小的整數值，稱為 hash 值 (hash value)。
   - 不保證元素有序 (無序)  
+
 - **元素存取方式**：以 Key 為索引存取 Value，平均情況下可在 O(1) 完成查找、插入、刪除。
 
 ---
@@ -62,10 +64,13 @@
 ## 5. 使用情境 (Usage Scenarios)
 1. **快速查找配對 (Pair Lookup)**  
    - 例：Two Sum、判斷是否存在補數  
+
 2. **頻率統計 (Frequency Counting)**  
    - 例：字母出現次數、Top K Frequent Elements  
+
 3. **分組 (Grouping)**  
    - 例：Group Anagrams (異位詞分組)  
+   
 4. **去重 (Deduplication)**  
    - 與 `unordered_set` 搭配使用
 

@@ -4,10 +4,12 @@
 - **資料結構 (Data Structure)**：  
   C++ STL 中基於 **哈希表 (Hash Table)** 的關聯式容器 (associative container)。  
   ** 關聯式容器 (associative container) **: 根據鍵 (key) 來快速查找值 (value) 的容器，而不是透過 index 存取。
+
 - **元素特性 (Element Properties)**：  
   - 僅儲存 **唯一 (unique)** 元素，無 Key-Value 配對。  
   - 元素必須可被 `std::hash` 雜湊。  
   - 不保證有序 (元素排列順序不固定)。  
+
 - **主要用途**：快速判斷元素是否存在、集合操作（交集、差集、去重）。
 
 ---
@@ -57,10 +59,13 @@
 ## 5. 使用情境 (Usage Scenarios)
 1. **快速存在性判斷 (Existence Check)**  
    - 例：判斷某元素是否出現過 (如檢查重複)。  
+
 2. **去重 (Deduplication)**  
    - 例：輸入一串數字，快速獲得唯一元素集合。  
+
 3. **集合操作 (Set Operations)**  
    - 可用於交集、聯集、差集操作（需手動實作）。  
+   
 4. **過濾器實現**  
    - 例：簡單黑名單、白名單過濾。
 
