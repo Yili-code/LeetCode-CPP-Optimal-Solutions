@@ -84,6 +84,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 
 
 - [ ] 0700. Search in a Binary Search Tree (easy/0700-Search-In-A-Binary-Search-Tree)
+- [ ] 0701. Insert into a Binary Search Tree (medium/0701-Insert-into-a-Binary-Search-Tree)
 - [ ] 0704. Binary Search (easy/0704-Binary-Search)
 - [ ] 0707. Design Linked List (medium/0707-Design-Linked-List)
 
