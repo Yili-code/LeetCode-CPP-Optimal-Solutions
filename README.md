@@ -49,6 +49,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 - [ ] 0225. Implement Stack using Queues (easy/0225-Implement-Stack-Using-Queues)
 - [ ] 0226. Invert Binary Tree (easy/0226-Invert-Binary-Tree)
 - [ ] 0232. Implement Queue using Stacks (easy/0232-Implement-Queue-Using-Stacks)
+- [ ] 0236. Lowest Common Ancestor of a Binary Tree (medium/0236-Lowest-Common-Ancestor-of-a-Binary-Tree)
 - [ ] 0239. Sliding Window Maximum (hard/0239-Sliding-Window-Maximum)
 - [ ] 0242. Valid Anagram (easy/0242-Valid-Anagram)
 
