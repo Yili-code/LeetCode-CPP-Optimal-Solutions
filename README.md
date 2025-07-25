@@ -82,6 +82,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 - [ ] 0617. Merge Two Binary Trees (easy/0617-Merge-Two-Binary-Trees)
 
 - [ ] 0654. Maximum Binary Tree (medium/0654-Maximum-Binary-Tree)
+- [ ] 0669. Trim a Binary Search Tree (medium/0669-Trim-a-Binary-Search-Tree)
 
 
 - [ ] 0700. Search in a Binary Search Tree (easy/0700-Search-In-A-Binary-Search-Tree)
