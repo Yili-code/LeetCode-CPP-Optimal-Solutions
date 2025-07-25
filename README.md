@@ -67,6 +67,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 
 
 - [ ] 0404. Sum of Left Leaves (easy/0404-Sum-Of-Left-Leaves)
+- [ ] 0450. Delete Node in a BST (medium/0450-Delete-Node-in-a-BST)
 
 - [ ] 0451. Sort Characters By Frequency (medium/0451-Sort-Characters-By-Frequency)
 - [ ] 0454. 4Sum II (medium/0454-4Sum-II)
