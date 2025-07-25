@@ -1,7 +1,7 @@
-## 解題思路
+## key insight
 考慮到 BST 以及空間複雜度，不使用 vector 將 BST 加入統計，而是直接在 traverse node->val 變化時將總量小於最大量的數字刪除
 
-## 時間與空間複雜度
+## time and space complexity
 1. 時間複雜度: O(n)
 
 2. 空間複雜度: (額外空間為主) -> O(1)、嚴格計算(包含呼叫堆疊) -> O(1 + h) -> o(h)

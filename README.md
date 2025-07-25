@@ -31,6 +31,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 - [ ] 0101. Symmetric Tree (easy/0101-Symmetric-Tree)
 - [ ] 0104. Maximum Depth of Binary Tree (easy/0104-Maximum-Depth-Of-Binary-Tree)
 - [ ] 0106. Construct Binary Tree from Inorder and Postorder Traversal (medium/0106-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal)
+- [ ] 0108. Convert Sorted Array to Binary Search Tree (easy/0108-Convert-Sorted-Array-to-Binary-Search-Tree)
 - [ ] 0110. Balanced Binary Tree (easy/0110-Balanced-Binary-Tree)
 - [ ] 0111. Minimum Depth of Binary Tree (easy/0111-Minimum-Depth-Of-Binary-Tree)
 - [ ] 0112. Path Sum (easy/0112-Path-Sum)

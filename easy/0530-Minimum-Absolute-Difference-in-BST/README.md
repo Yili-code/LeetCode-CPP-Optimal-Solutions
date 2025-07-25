@@ -1,4 +1,4 @@
-## 解題思路
+## key insight
 1. BST : 
  - 每個節點至多兩個子節點(Left Subtree and Right Subtree)
  
@@ -12,7 +12,7 @@
 
 3. inorder traversal: left middle right
 
-## 時間複雜度與空間複雜度
+## time and space complxity
 1. 時間複雜度: O(n) <- O(n) + o(n)
  - In-order Traversal: O(n)
  - compare in vector: O(n)
