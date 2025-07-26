@@ -77,6 +77,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 
 - [ ] 0501. Find Mode in Binary Search Tree (easy/0501-Find-Mode-in-Binary-Search-Tree)
 - [ ] 0530. Minimum Absolute Difference in BST (easy/0530-Minimum-Absolute-Difference-in-BST)
+- [ ] 0538. Convert BST to Greater Tree (medium/0538-Convert-BST-to-Greater-Tree)
 - [ ] 0541. Reverse String II (easy/0541-Reverse-String-II)
 
 
