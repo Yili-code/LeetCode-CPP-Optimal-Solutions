@@ -1,7 +1,7 @@
 # LeetCode-CPP-Optimal-Solutions
 
 ## Project Goal
-Collect my optimal C++ solutions for LeetCode problems, with detailed explanations, complexity analysis, and diagrams.
+Collect my C++ solutions for LeetCode problems, with detailed explanations, complexity analysis, and diagrams.
 
 ## Update Frequency
 15 to 20 problems per week.
