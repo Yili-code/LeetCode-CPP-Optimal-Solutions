@@ -45,6 +45,7 @@
 - [ 0206. Reverse Linked List ](easy/0206-Reverse-Linked-List)
 - [ 0209. Minimum Size Subarray Sum ](medium/0209-Minimum-Size-Subarray-Sum)
 - [ 0216. Combination Sum III ](medium/0216-Combination-Sum-III)
+- [ 0217. Contains Duplicate ](easy/0217-Contains-Duplicate)
 - [ 0222. Count Complete Tree Nodes ](easy/0222-Count-Complete-Tree-Nodes)
 - [ 0225. Implement Stack using Queues ](easy/0225-Implement-Stack-Using-Queues)
 - [ 0226. Invert Binary Tree ](easy/0226-Invert-Binary-Tree)
