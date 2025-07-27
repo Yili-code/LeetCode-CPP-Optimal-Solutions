@@ -23,6 +23,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 - [ ] 0027. Remove Element (easy/0027-Remove-Element)
 
 - [ ] 0059. Spiral Matrix II (medium/0059-Spiral-Matrix-II)
+- [ ] 0077. Combinations (medium/0077-Combinations)
 - [ ] 0094. Binary Tree Inorder Traversal (easy/0094-Binary-Tree-Inorder-Traversal)
 - [ ] 0098. Validate Binary Search Tree (medium/0098-Validate-Binary-Search-Tree)
 
@@ -46,6 +47,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 - [ ] 0203. Remove Linked List Elements (easy/0203-Remove-Linked-List-Elements)
 - [ ] 0206. Reverse Linked List (easy/0206-Reverse-Linked-List)
 - [ ] 0209. Minimum Size Subarray Sum (medium/0209-Minimum-Size-Subarray-Sum)
+- [ ] 0216. Combination Sum III (medium/0216-Combination-Sum-III)
 - [ ] 0222. Count Complete Tree Nodes (easy/0222-Count-Complete-Tree-Nodes)
 - [ ] 0225. Implement Stack using Queues (easy/0225-Implement-Stack-Using-Queues)
 - [ ] 0226. Invert Binary Tree (easy/0226-Invert-Binary-Tree)

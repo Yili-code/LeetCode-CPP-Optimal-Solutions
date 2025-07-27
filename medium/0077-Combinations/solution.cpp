@@ -21,5 +21,3 @@ public:
     return result;
   }
 };
-
-// n = 4 k = 2
