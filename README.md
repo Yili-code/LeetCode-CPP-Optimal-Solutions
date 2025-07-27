@@ -61,6 +61,7 @@ Developers preparing for interviews or seeking deep understanding of algorithms.
 
 - [ ] 0257. Binary Tree Paths (easy/0257-Binary-Tree-Paths)
 - [ ] 0283. Move Zeroes (easy/0283-Move-Zeroes)
+- [ ] 0290. Word Pattern (easy/0290-Word-Pattern)
 
 
 - [ ] 0344. Reverse String (easy/0344-Reverse-String)
