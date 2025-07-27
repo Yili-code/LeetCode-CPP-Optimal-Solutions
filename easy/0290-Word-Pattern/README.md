@@ -1,3 +1,5 @@
+## classification: hash map
+
 ## key insight
 1. `if (!um[ch]) {...}` does not work
   - `um[ch]` will insert a default value even if the key doesn't exist

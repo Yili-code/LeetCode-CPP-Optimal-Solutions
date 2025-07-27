@@ -1,7 +1,1 @@
-# Solution Explanation
-
-# Compexity
-
-# Common Mistakes
-
-#
+## classification: hash map
