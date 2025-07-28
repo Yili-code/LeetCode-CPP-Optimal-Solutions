@@ -15,6 +15,7 @@
 - [ 0024. Swap Nodes in Pairs ](medium/0024-Swap-Nodes-In-Pairs)
 - [ 0027. Remove Element ](easy/0027-Remove-Element)
 - [ 0039. Combination Sum ](medium/0039-Combination-Sum)
+- [ 0040. Combination Sum II ](medium/0040-Combination-Sum-II) 
 - [ 0048. Rotate Image ] (medium/0048-Rotate-Image)
 ---
 
