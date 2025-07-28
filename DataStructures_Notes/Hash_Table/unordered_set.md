@@ -3,7 +3,7 @@
 ## 1. 基本定義 (Basic Definition)
 - **資料結構 (Data Structure)**：  
   C++ STL 中基於 **哈希表 (Hash Table)** 的關聯式容器 (associative container)。  
-  ** 關聯式容器 (associative container) **: 根據鍵 (key) 來快速查找值 (value) 的容器，而不是透過 index 存取。
+  **關聯式容器 (associative container)** : 根據鍵 (key) 來快速查找值 (value) 的容器，而不是透過 index 存取。
 
 - **元素特性 (Element Properties)**：  
   - 僅儲存 **唯一 (unique)** 元素，無 Key-Value 配對。  
