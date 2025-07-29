@@ -34,6 +34,7 @@
 - [ 0111. Minimum Depth of Binary Tree ](easy/0111-Minimum-Depth-Of-Binary-Tree)
 - [ 0112. Path Sum ](easy/0112-Path-Sum)
 - [ 0128. Longest Consecutive Sequence ](medium/0128-Longest-Consecutive-Sequence)
+- [ 0131. Palindrome Paririoning](medium/0131-Palindrome-Paririoning)
 - [ 0142. Linked List Cycle II ](medium/0142-Linked-List-Cycle-II)
 - [ 0144. Binary Tree Preorder Traversal ](easy/0144-Binary-Tree-Preorder-Traversal)
 - [ 0145. Binary Tree Postorder Traversal ](easy/0145-Binary-Tree-Postorder-Traversal)
