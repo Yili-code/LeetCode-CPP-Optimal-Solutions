@@ -83,6 +83,7 @@
 - [ 0451. Sort Characters By Frequency ](medium/0451-Sort-Characters-By-Frequency)
 - [ 0454. 4Sum II ](medium/0454-4Sum-II)
 - [ 0459. Repeated Substring Pattern ](easy/0459-Repeated-Substring-Pattern)
+- [ 0491. Non decreasing Subsequences ](medium/0491-Non-decreasing-Subsequences)
 ---
 
 - [ 0501. Find Mode in Binary Search Tree ](easy/0501-Find-Mode-in-Binary-Search-Tree)
