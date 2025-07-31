@@ -23,6 +23,7 @@
 ---
 
 - [ 0051. N Queens ](hard/0051-N-Queens)
+- [ 0053. Maximum Subarray ](medium/0053-Maximum-Subarray)
 - [ 0059. Spiral Matrix II ](medium/0059-Spiral-Matrix-II)
 - [ 0077. Combinations ](medium/0077-Combinations)
 - [ 0078. Subsets ](medium/0078-Subsets)
