@@ -76,6 +76,7 @@
 - [ 0349. Intersection of Two Arrays ](easy/0349-Intersection-Of-Two-Arrays)
 ---
 
+- [ 0376. Wiggle Subsequence ](medium/0376-Wiggle-Subsequence)
 - [ 0383. Ransom Note ](easy/0383-Ransom-Note)
 - [ 0387. First Unique Character in a String ](easy/0387-First-Unique-Character-In-A-String)
 ---
