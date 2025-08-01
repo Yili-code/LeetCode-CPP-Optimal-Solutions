@@ -121,4 +121,5 @@
 - [ 0977. Squares of a Sorted Array ](easy/0977-Squares-Of-A-Sorted-Array)
 ---
 
+- [ 1005 Maximize Sum Of Array After K Negations ](easy/1005-Maximize-Sum-Of-Array-After-K-Negations)
 - [ 1047. Remove All Adjacent Duplicates In String ](easy/1047-Remove-All-Adjacent-Duplicates-In-String)
