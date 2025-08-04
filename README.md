@@ -117,6 +117,10 @@
 - [ 0707. Design Linked List ](medium/0707-Design-Linked-List)
 ---
 
+- [ 0860. Lemonade Change ](easy/0860-Lemonade-Change)
+
+---
+
 - [ 0904. Fruit Into Baskets ](medium/0904-Fruit-Into-Baskets)
 ---
 
