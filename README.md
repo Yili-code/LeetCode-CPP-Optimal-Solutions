@@ -47,6 +47,7 @@
 - [ 0128. Longest Consecutive Sequence ](medium/0128-Longest-Consecutive-Sequence)
 - [ 0131. Palindrome Paririoning](medium/0131-Palindrome-Paririoning)
 - [ 0134. Gas Station ](medium/0134-Gas-Station)
+- [ 0135. Candy ](hard/0135-Candy)
 - [ 0142. Linked List Cycle II ](medium/0142-Linked-List-Cycle-II)
 - [ 0144. Binary Tree Preorder Traversal ](easy/0144-Binary-Tree-Preorder-Traversal)
 - [ 0145. Binary Tree Postorder Traversal ](easy/0145-Binary-Tree-Postorder-Traversal)
