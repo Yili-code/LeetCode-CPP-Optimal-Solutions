@@ -88,6 +88,7 @@
 ---
 
 - [ 0404. Sum of Left Leaves ](easy/0404-Sum-Of-Left-Leaves)
+- [ 0406. Queue Reconstruction by Height ](medium/0406-Queue-Reconstruction-by-Height)
 ---
 
 - [ 0450. Delete Node in a BST ](medium/0450-Delete-Node-in-a-BST)
