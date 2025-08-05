@@ -118,6 +118,7 @@
 - [ 0701. Insert into a Binary Search Tree ](medium/0701-Insert-into-a-Binary-Search-Tree)
 - [ 0704. Binary Search ](easy/0704-Binary-Search)
 - [ 0707. Design Linked List ](medium/0707-Design-Linked-List)
+- [ 0763. Partition Labels ](medium/0763-Partition-Labels)
 ---
 
 - [ 0860. Lemonade Change ](easy/0860-Lemonade-Change)
