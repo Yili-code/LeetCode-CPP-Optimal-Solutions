@@ -93,6 +93,7 @@
 
 - [ 0450. Delete Node in a BST ](medium/0450-Delete-Node-in-a-BST)
 - [ 0451. Sort Characters By Frequency ](medium/0451-Sort-Characters-By-Frequency)
+- [ 0452. Minimum Number of Arrows to Burst Balloons ](medium/0452-Minimum-Number-of-Arrows-to-Burst-Balloons)
 - [ 0454. 4Sum II ](medium/0454-4Sum-II)
 - [ 0455. Assign Cookies ](easy/0455-Assign-Cookies)
 - [ 0459. Repeated Substring Pattern ](easy/0459-Repeated-Substring-Pattern)
