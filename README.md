@@ -119,6 +119,7 @@
 - [ 0701. Insert into a Binary Search Tree ](medium/0701-Insert-into-a-Binary-Search-Tree)
 - [ 0704. Binary Search ](easy/0704-Binary-Search)
 - [ 0707. Design Linked List ](medium/0707-Design-Linked-List)
+- [ 0738. Monotone Increasing Digits ](medium/0738-Monotone-Increasing-Digits)
 - [ 0763. Partition Labels ](medium/0763-Partition-Labels)
 ---
 
