@@ -28,6 +28,7 @@
 - [ 0055. Jump Game ](medium/0055-Jump-Game)
 - [ 0056. Merge Intervals ](medium/0056-Merge-Intervals)
 - [ 0059. Spiral Matrix II ](medium/0059-Spiral-Matrix-II)
+- [ 0070. Climbing Stairs ](easy/0070-Climbing-Stairs)
 - [ 0077. Combinations ](medium/0077-Combinations)
 - [ 0078. Subsets ](medium/0078-Subsets)
 - [ 0090. Subsets II](medium/0090-Subsets-II)
