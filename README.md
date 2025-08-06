@@ -130,6 +130,7 @@
 - [ 0904. Fruit Into Baskets ](medium/0904-Fruit-Into-Baskets)
 ---
 
+- [ 0968. Binary Tree Cameras ](hard/0968-Binary-Tree-Cameras)
 - [ 0977. Squares of a Sorted Array ](easy/0977-Squares-Of-A-Sorted-Array)
 ---
 
