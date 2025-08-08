@@ -81,6 +81,7 @@
 - [ 0290. Word Pattern ](easy/0290-Word-Pattern)
 ---
 
+- [ 0343. Integer Break ](medium/0343-Integer-Break)
 - [ 0344. Reverse String ](easy/0344-Reverse-String)
 - [ 0347. Top K Frequent Elements ](medium/0347-Top-K-Frequent-Elements)
 - [ 0349. Intersection of Two Arrays ](easy/0349-Intersection-Of-Two-Arrays)
