@@ -1,10 +1,3 @@
-# LeetCode-CPP-Optimal-Solutions
-
-## Update Frequency
-15 to 20 problems per week.
-
-
-## Progress
 - [ 0001. Two Sum ](easy/0001-Two-Sum)
 - [ 0002. Add Two Numbers ](medium/0002-Add-Two-Numbers)
 - [ 0015. 3Sum ](medium/0015-3Sum)
@@ -36,6 +29,7 @@
 - [ 0090. Subsets II](medium/0090-Subsets-II)
 - [ 0093. Restore IP Addresses](medium/0093-Restore-IP-Addresses)
 - [ 0094. Binary Tree Inorder Traversal ](easy/0094-Binary-Tree-Inorder-Traversal)
+- [ 0096. Unique Binary Search Trees ](medium/0096-Unique-Binary-Search-Trees)
 - [ 0098. Validate Binary Search Tree ](medium/0098-Validate-Binary-Search-Tree)
 ---
 
