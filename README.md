@@ -142,3 +142,4 @@
 
 - [ 1005 Maximize Sum Of Array After K Negations ](easy/1005-Maximize-Sum-Of-Array-After-K-Negations)
 - [ 1047. Remove All Adjacent Duplicates In String ](easy/1047-Remove-All-Adjacent-Duplicates-In-String)
+- [ 1049. Last Stone Weight II ](medium/1049-Last-Stone-Weight-II)
