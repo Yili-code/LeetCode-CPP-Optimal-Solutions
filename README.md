@@ -99,6 +99,7 @@
 - [ 0455. Assign Cookies ](easy/0455-Assign-Cookies)
 - [ 0459. Repeated Substring Pattern ](easy/0459-Repeated-Substring-Pattern)
 - [ 0491. Non decreasing Subsequences ](medium/0491-Non-decreasing-Subsequences)
+- [ 0494. Target Sum ](medium/0494-Target-Sum)
 ---
 
 - [ 0501. Find Mode in Binary Search Tree ](easy/0501-Find-Mode-in-Binary-Search-Tree)
