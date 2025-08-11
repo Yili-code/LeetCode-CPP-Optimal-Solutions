@@ -5,17 +5,21 @@
   - `um[ch]` will insert a default value even if the key doesn't exist
   - correct way: `if (um.find(ch) == um.end()) {...}`
 
-2. Split string s into words.
-  - remember to skip spaces between words
-  - `if s[i] is space (s[i] == ' ') or i is the last number (i == s.size()), then add temp(string) into words(vector<string>).
-else add s[i] into temp(string).
-`
+2. Split string s into words
 
-3. use reverse_um to implement bidirectional mapping
+```cpp
+
+// remember to skip spaces between words
+if s[i] is space (s[i] == ' ') or i is the last number (i == s.size()), then add temp(string) into words(vector<string>)
+else add s[i] into temp(string).
+
+```
+
+3. Use `reverse_um` to implement bidirectional mapping
 
 4. `um.count()` is a C++ STL unordered_map method that checks whether a key exists in the map.
 
-5. other way to split string s into words
+5. Other way to split string s into words
 
     ````cpp
     vector<string> words;
