@@ -2,7 +2,7 @@ class Solution {
 public:
   int change(int amount, vector<int> &coins) {
     // DP Definition: dp[k]: the number of ways to sum k
-    vector<uint_64> dp(amount + 1, 0);
+    vector<uint64_t> dp(amount + 1, 0);
 
     // Initialization (base case)
     dp[0] = 1;
