@@ -138,6 +138,7 @@
 ---
 
 - [ 0904. Fruit Into Baskets ](medium/0904-Fruit-Into-Baskets)
+- [ 0941. Valid Mountain Array ](easy/0941-Valid-Mountain-Array)
 ---
 
 - [ 0968. Binary Tree Cameras ](hard/0968-Binary-Tree-Cameras)
