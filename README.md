@@ -97,6 +97,7 @@
 - [ 0452. Minimum Number of Arrows to Burst Balloons ](medium/0452-Minimum-Number-of-Arrows-to-Burst-Balloons)
 - [ 0454. 4Sum II ](medium/0454-4Sum-II)
 - [ 0455. Assign Cookies ](easy/0455-Assign-Cookies)
+- [ 0474. Ones and Zeroes ](medium/0474-Ones-and-Zeroes)
 - [ 0459. Repeated Substring Pattern ](easy/0459-Repeated-Substring-Pattern)
 - [ 0491. Non decreasing Subsequences ](medium/0491-Non-decreasing-Subsequences)
 - [ 0494. Target Sum ](medium/0494-Target-Sum)
@@ -104,6 +105,7 @@
 
 - [ 0501. Find Mode in Binary Search Tree ](easy/0501-Find-Mode-in-Binary-Search-Tree)
 - [ 0509. Fibonacci Number ](easy/0509-Fibonacci-Number)
+- [ 0518. Coin Change II ](medium/0518-Coin-Change-II)
 - [ 0530. Minimum Absolute Difference in BST ](easy/0530-Minimum-Absolute-Difference-in-BST)
 - [ 0538. Convert BST to Greater Tree ](medium/0538-Convert-BST-to-Greater-Tree)
 - [ 0541. Reverse String II ](easy/0541-Reverse-String-II)
