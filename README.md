@@ -71,6 +71,7 @@
 ---
 
 - [ 0257. Binary Tree Paths ](easy/0257-Binary-Tree-Paths)
+- [ 0279. Perfect Squares ](medium/0279-Perfect-Squares)
 - [ 0283. Move Zeroes ](easy/0283-Move-Zeroes)
 - [ 0290. Word Pattern ](easy/0290-Word-Pattern)
 ---
