@@ -126,6 +126,7 @@
 - [ 0704. Binary Search ](easy/0704-Binary-Search)
 - [ 0707. Design Linked List ](medium/0707-Design-Linked-List)
 - [ 0738. Monotone Increasing Digits ](medium/0738-Monotone-Increasing-Digits)
+- [ 0739. Daily Temperatures ](medium/0739-Daily-Temperatures)
 - [ 0746. Min Cost Climbing Stairs ](easy/0746-Min-Cost-Climbing-Stairs)
 
 --- 
