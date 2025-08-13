@@ -10,6 +10,7 @@
 - [ 0037. Sudoku Solver ](hard/0037-Sudoku-Solver) 
 - [ 0039. Combination Sum ](medium/0039-Combination-Sum)
 - [ 0040. Combination Sum II ](medium/0040-Combination-Sum-II) 
+- [ 0042. Trapping Rain Water ](hard/0042-Trapping-Rain-Water)
 - [ 0045. Jump Game II ](medium/0045-Jump-Game-II)
 - [ 0046. Permutations ](medium/0046-Permutations) 
 - [ 0047. Permutations II ](medium/0047-Permutations-II)
