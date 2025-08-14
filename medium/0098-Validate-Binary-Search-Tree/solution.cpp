@@ -1,8 +1,7 @@
 class Solution {
 public:
   void helper(TreeNode *node, vector<int> &v) {
-    if (!node)
-      return;
+    if (!node) return;
 
     helper(node->left, v);  // left
     v.push_back(node->val); // middle
@@ -11,8 +10,7 @@ public:
 
   bool isValidBST(TreeNode *root) {
     // inorder traverse: left middle right
-    if (!root)
-      return true;
+    if (!root) return true;
 
     vector<int> v;
     helper(root, v);
