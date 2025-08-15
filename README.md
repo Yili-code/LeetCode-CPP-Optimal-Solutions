@@ -1,6 +1,8 @@
 - [ 0001. Two Sum ](easy/0001-Two-Sum)
 - [ 0002. Add Two Numbers ](medium/0002-Add-Two-Numbers)
 - [ 0003. Longest Substring Without Repeating Characters ](medium/0003-Longest-Substring-Without-Repeating-Characters)
+- [ 0004. Median of Two Sorted Arrays ](hard/0004-Median-of-Two-Sorted-Arrays)
+- [ 0005. Longest Palindromic Substring ](medium/0005-Longest-Palindromic-Substring)
 - [ 0015. 3Sum ](medium/0015-3Sum)
 - [ 0017. Letter Combinations of a Phone Number ](medium/0017-Letter-Combinations-of-a-Phone-Number)
 - [ 0018. 4Sum ](medium/0018-4Sum)
