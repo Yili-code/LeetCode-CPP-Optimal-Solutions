@@ -160,3 +160,13 @@
 - [ 1047. Remove All Adjacent Duplicates In String ](easy/1047-Remove-All-Adjacent-Duplicates-In-String)
 - [ 1049. Last Stone Weight II ](medium/1049-Last-Stone-Weight-II)
 - [ 1089. Duplicate Zeros ](easy/1089-Duplicate-Zeros)
+
+# Weekly Contest
+
+0462
+- [ Q1. Flip Square Submatrix Vertically ](Weekly-Contest/Q1-Flip-Square-Submatrix-Vertically)
+- [ U Q2. Maximum K to Sort a Permutation ](Weekly-Contest/U-Q2-Maximum-K-to-Sort-a-Permutation)
+- [ U Q4. Next Special Palindrome Number ](Weekly-Contest/U-Q4-Next-Special-Palindrome-Number)
+
+---
+
