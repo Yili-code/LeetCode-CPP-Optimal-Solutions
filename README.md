@@ -25,6 +25,7 @@
 
 - [ 0051. N Queens ](hard/0051-N-Queens)
 - [ 0053. Maximum Subarray ](medium/0053-Maximum-Subarray)
+- [ 0054. Spiral Matrix ](medium/0054-Spiral-Matrix)
 - [ 0055. Jump Game ](medium/0055-Jump-Game)
 - [ 0056. Merge Intervals ](medium/0056-Merge-Intervals)
 - [ 0059. Spiral Matrix II ](medium/0059-Spiral-Matrix-II)
