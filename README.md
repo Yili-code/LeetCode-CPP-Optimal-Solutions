@@ -37,6 +37,7 @@
 - [ 0078. Subsets ](medium/0078-Subsets)
 - [ 0083. Remove Duplicates from Sorted List ](easy/0083-Remove-Duplicates-from-Sorted-List)
 - [ 0084. Largest Rectangle in Histogram ](hard/0084-Largest-Rectangle-in-Histogram)
+- [ 0086. Partition List ](medium/0086-Partition-List)
 - [ 0090. Subsets II](medium/0090-Subsets-II)
 - [ 0093. Restore IP Addresses](medium/0093-Restore-IP-Addresses)
 - [ 0094. Binary Tree Inorder Traversal ](easy/0094-Binary-Tree-Inorder-Traversal)
