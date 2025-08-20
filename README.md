@@ -39,6 +39,7 @@
 - [ 0084. Largest Rectangle in Histogram ](hard/0084-Largest-Rectangle-in-Histogram)
 - [ 0086. Partition List ](medium/0086-Partition-List)
 - [ 0090. Subsets II](medium/0090-Subsets-II)
+- [ 0092. Reverse Linked List II ](medium/0092-Reverse-Linked-List-II)
 - [ 0093. Restore IP Addresses](medium/0093-Restore-IP-Addresses)
 - [ 0094. Binary Tree Inorder Traversal ](easy/0094-Binary-Tree-Inorder-Traversal)
 - [ 0096. Unique Binary Search Trees ](medium/0096-Unique-Binary-Search-Trees)
