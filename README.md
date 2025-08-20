@@ -29,6 +29,7 @@
 - [ 0055. Jump Game ](medium/0055-Jump-Game)
 - [ 0056. Merge Intervals ](medium/0056-Merge-Intervals)
 - [ 0059. Spiral Matrix II ](medium/0059-Spiral-Matrix-II)
+- [ 0061. Rotate List ](medium/0061-Rotate-List)
 - [ 0062. Unique Paths ](medium/0062-Unique-Paths)
 - [ 0063. Unique Paths II ](medium/0063-Unique-Paths-II)
 - [ 0070. Climbing Stairs ](easy/0070-Climbing-Stairs)
