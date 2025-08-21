@@ -93,6 +93,7 @@
 - [ 0290. Word Pattern ](easy/0290-Word-Pattern)
 ---
 
+- [ 0328. Odd Even Listked List ](medium/0328-Odd-Even-Listked-List)
 - [ 0343. Integer Break ](medium/0343-Integer-Break)
 - [ 0344. Reverse String ](easy/0344-Reverse-String)
 - [ 0347. Top K Frequent Elements ](medium/0347-Top-K-Frequent-Elements)
