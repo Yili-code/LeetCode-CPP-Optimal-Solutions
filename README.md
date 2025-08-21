@@ -67,6 +67,7 @@
 
 - [ 0150. Evaluate Reverse Polish Notation ](medium/0150-Evaluate-Reverse-Polish-Notation)
 - [ 0151. Reverse Words in a String ](medium/0151-Reverse-Words-In-A-String)
+- [ 0160. Intersection of Two Linked Lists ](easy/0160-Intersection-of-Two-Linked-Lists)
 ---
 
 - [ 0203. Remove Linked List Elements ](easy/0203-Remove-Linked-List-Elements)
