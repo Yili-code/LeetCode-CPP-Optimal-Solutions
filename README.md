@@ -76,6 +76,7 @@
 - [ 0216. Combination Sum III ](medium/0216-Combination-Sum-III)
 - [ 0217. Contains Duplicate ](easy/0217-Contains-Duplicate)
 - [ 0222. Count Complete Tree Nodes ](easy/0222-Count-Complete-Tree-Nodes)
+- [ 0224. Basic Calculator ](hard/0224-Basic-Calculator)
 - [ 0225. Implement Stack using Queues ](easy/0225-Implement-Stack-Using-Queues)
 - [ 0226. Invert Binary Tree ](easy/0226-Invert-Binary-Tree)
 - [ 0232. Implement Queue using Stacks ](easy/0232-Implement-Queue-Using-Stacks)
