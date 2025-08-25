@@ -158,6 +158,7 @@
 
 ---
 
+- [ 0844. Backspace String Compare ](easy/0844-Backspace-String-Compare)
 - [ 0860. Lemonade Change ](easy/0860-Lemonade-Change)
 
 ---
