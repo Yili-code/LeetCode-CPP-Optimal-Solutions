@@ -80,7 +80,7 @@
 - [ 0224. Basic Calculator ](hard/0224-Basic-Calculator)
 - [ 0225. Implement Stack using Queues ](easy/0225-Implement-Stack-Using-Queues)
 - [ 0226. Invert Binary Tree ](easy/0226-Invert-Binary-Tree)
-- [ 02273.Basic Calculator II ](medium/0227-Basic-Calculator-II)
+- [ 0273.Basic Calculator II ](medium/0227-Basic-Calculator-II)
 - [ 0232. Implement Queue using Stacks ](easy/0232-Implement-Queue-Using-Stacks)
 - [ 0234. Palindrome Linked List ](easy/0234-Palindrome-Linked-List)
 - [ 0235. Lowest Common Ancestor of a Binary Search Tree ](medium/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree)
@@ -138,6 +138,7 @@
 ---
 
 - [ 0617. Merge Two Binary Trees ](easy/0617-Merge-Two-Binary-Trees)
+- [ 0641. Design Circular Deque ](medium/0641-Design-Circular-Deque)
 ---
 
 - [ 0654. Maximum Binary Tree ](medium/0654-Maximum-Binary-Tree)
