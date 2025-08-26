@@ -138,6 +138,7 @@
 ---
 
 - [ 0617. Merge Two Binary Trees ](easy/0617-Merge-Two-Binary-Trees)
+- [ 0622. Design Circular Queue ](medium/0622-Design-Circular-Queue)
 - [ 0641. Design Circular Deque ](medium/0641-Design-Circular-Deque)
 ---
 
