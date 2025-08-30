@@ -75,6 +75,7 @@
 - [ 0206. Reverse Linked List ](easy/0206-Reverse-Linked-List)
 - [ 0208. Implement Trie (Predix Tree) ](medium/0208-Implement-Trie-(Predix-Tree))
 - [ 0209. Minimum Size Subarray Sum ](medium/0209-Minimum-Size-Subarray-Sum)
+- [ 0211. Design add and Search Words Data Structure ](medium/0211-Design-Add-and-Search-Words-Data-Structure)
 - [ 0216. Combination Sum III ](medium/0216-Combination-Sum-III)
 - [ 0217. Contains Duplicate ](easy/0217-Contains-Duplicate)
 - [ 0222. Count Complete Tree Nodes ](easy/0222-Count-Complete-Tree-Nodes)
