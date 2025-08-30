@@ -167,6 +167,7 @@
 ---
 
 - [ 0904. Fruit Into Baskets ](medium/0904-Fruit-Into-Baskets)
+- [ 0933. Number of Recent Calls ](easy/0933-Number-of-Recent-Calls)
 - [ 0941. Valid Mountain Array ](easy/0941-Valid-Mountain-Array)
 - [ 0946. Validate Stack Sequences ](medium/0946-Validate-Stack-Sequences)
 ---
