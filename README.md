@@ -80,7 +80,7 @@
 - [ 0224. Basic Calculator ](hard/0224-Basic-Calculator)
 - [ 0225. Implement Stack using Queues ](easy/0225-Implement-Stack-Using-Queues)
 - [ 0226. Invert Binary Tree ](easy/0226-Invert-Binary-Tree)
-- [ 0273.Basic Calculator II ](medium/0227-Basic-Calculator-II)
+- [ 0273. Basic Calculator II ](medium/0227-Basic-Calculator-II)
 - [ 0232. Implement Queue using Stacks ](easy/0232-Implement-Queue-Using-Stacks)
 - [ 0234. Palindrome Linked List ](easy/0234-Palindrome-Linked-List)
 - [ 0235. Lowest Common Ancestor of a Binary Search Tree ](medium/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree)
@@ -176,10 +176,11 @@
 - [ 0977. Squares of a Sorted Array ](easy/0977-Squares-Of-A-Sorted-Array)
 ---
 
-- [ 1005 Maximize Sum Of Array After K Negations ](easy/1005-Maximize-Sum-Of-Array-After-K-Negations)
+- [ 1005. Maximize Sum Of Array After K Negations ](easy/1005-Maximize-Sum-Of-Array-After-K-Negations)
 - [ 1047. Remove All Adjacent Duplicates In String ](easy/1047-Remove-All-Adjacent-Duplicates-In-String)
 - [ 1049. Last Stone Weight II ](medium/1049-Last-Stone-Weight-II)
 - [ 1089. Duplicate Zeros ](easy/1089-Duplicate-Zeros)
+- [ 1352. Product of the Last K Numbers ](medium/1352-Product-of-the-Last-K-Numbers)
 
 # Weekly Contest
 
