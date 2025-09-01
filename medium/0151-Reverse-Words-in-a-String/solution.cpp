@@ -1,7 +1,7 @@
 class Solution {
 public:
   string reverseWords(string s) {
-    // remove leading/trailing/multiple spaces
+    // remove leading/tailing/multiple spaces
     removeExtraSpaces(s);
 
     // reverse the whole string
