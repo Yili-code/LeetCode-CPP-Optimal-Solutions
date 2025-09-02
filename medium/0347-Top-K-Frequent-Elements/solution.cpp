@@ -1,27 +1,23 @@
 class Solution {
 public:
-  vector<int> topKFrequent(vector<int> &nums, int k) {
-    // count the frequency of each number
-    unordered_map<int, int> freq; 
-    for (int num : nums) { ++freq[num]; }
+  vector<string> topKFrequent(vector<string> &words, int k) {
+    // Count frequency
+    unordered_map<string, int> freq; // word -> count
+    for (const string& str : words) { ++freq[str]; }
 
-    // ues s minHeap to keep top k elements
-    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> minHeap;
-    for (auto& [num, count] : freq) {
-      minHeap.push({count, num});
-      if (minHeap.size() > k) {
-        minHeap.pop();
-      }
-    }
+    // Move to vector for sorting
+    vector<pair<string, int>> vec(freq.begin(), freq.end());
 
-    // extract result from heap
-    vector<int> result;
-    while (!minHeap.empty()) {
-      result.push_back(minHeap.top().second);
-      minHeap.pop();
-    }
-    
-    reverse(result.begin(), result.end());
+    // Custom sorting
+    sort(vec.begin(), vec.end(), [](const pair<string, int>& a, const pair<string, int>& b) {
+      if (a.second != b.second) return a.second > b.second;
+      return a.first < b.first;
+    });
+
+    // Collect top k
+    vector<string> result;
+    for (int i = 0; i < k; ++i) { result.push_back(vec[i].first); }
+
     return result;
   }
 };

@@ -150,6 +150,7 @@
 
 - [ 0654. Maximum Binary Tree ](medium/0654-Maximum-Binary-Tree)
 - [ 0669. Trim a Binary Search Tree ](medium/0669-Trim-a-Binary-Search-Tree)
+- [ 0692. Top K Frequent Words ](medium/0692-Top-K-Frequent-Words)
 - [ 0698. Partition to K Equal Sum Subsets ](medium/0698-Partition-to-K-Equal-Sum-Subsets)
 ---
 
