@@ -186,8 +186,14 @@
 - [ 1049. Last Stone Weight II ](medium/1049-Last-Stone-Weight-II)
 - [ 1089. Duplicate Zeros ](easy/1089-Duplicate-Zeros)
 - [ 1352. Product of the Last K Numbers ](medium/1352-Product-of-the-Last-K-Numbers)
+---
+
 
 - [ 2733. Neither Minimum nor Maximum ](easy/2733-Neither-Minimum-nor-Maximum)
+---
+
+- [ 3142. Check if Grid Satisfies Conditions ](easy/3142-Check-if-Grid-Satisfies-Conditions)
+---
 
 # Weekly Contest
 
