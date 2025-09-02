@@ -10,6 +10,7 @@
 - [ 0018. 4Sum ](medium/0018-4Sum)
 - [ 0019. Remove Nth Node From End of List ](medium/0019-Remove-Nth-Node-From-End-Of-List)
 - [ 0020. Valid Parentheses ](easy/0020-Valid-Parentheses)
+- [ 0023. Merge k Sorted Lists ](hard/0023-Merge-k-Sorted-Lists)
 - [ 0024. Swap Nodes in Pairs ](medium/0024-Swap-Nodes-In-Pairs)
 - [ 0027. Remove Element ](easy/0027-Remove-Element)
 - [ 0036. Valid Sudoku ](medium/0036-Valid-Sudoku)
