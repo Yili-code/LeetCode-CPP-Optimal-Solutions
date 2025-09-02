@@ -187,6 +187,8 @@
 - [ 1089. Duplicate Zeros ](easy/1089-Duplicate-Zeros)
 - [ 1352. Product of the Last K Numbers ](medium/1352-Product-of-the-Last-K-Numbers)
 
+- [ 2733. Neither Minimum nor Maximum ](easy/2733-Neither-Minimum-nor-Maximum)
+
 # Weekly Contest
 
 0462
