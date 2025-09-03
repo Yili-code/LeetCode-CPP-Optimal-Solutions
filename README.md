@@ -179,8 +179,11 @@
 - [ 0946. Validate Stack Sequences ](medium/0946-Validate-Stack-Sequences)
 ---
 
+
 - [ 0968. Binary Tree Cameras ](hard/0968-Binary-Tree-Cameras)
 - [ 0977. Squares of a Sorted Array ](easy/0977-Squares-Of-A-Sorted-Array)
+- [ 0997. Find the Town Judge ](easy/0997-Find-the-Town-Judge)
+
 ---
 
 - [ 1005. Maximize Sum Of Array After K Negations ](easy/1005-Maximize-Sum-Of-Array-After-K-Negations)
